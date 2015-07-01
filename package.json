@@ -1,0 +1,17 @@
+{
+  "name": "spark-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A theme designed to be easy on the eyes, yet important syntax elements pop.",
+  "keywords": [
+    "syntax",
+    "theme",
+    "organized",
+    "dark"
+  ],
+  "repository": "https://github.com/atom/spark-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}

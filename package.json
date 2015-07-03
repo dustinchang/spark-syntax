@@ -2,14 +2,15 @@
   "name": "spark-syntax",
   "theme": "syntax",
   "version": "0.0.0",
-  "description": "A theme designed to be easy on the eyes, yet important syntax elements pop.",
+  "description": "A theme designed to be easy on the eyes, yet have important syntax elements pop.",
   "keywords": [
     "syntax",
     "theme",
     "organized",
-    "dark"
+    "dark",
+    "colorful"
   ],
-  "repository": "https://github.com/atom/spark-syntax",
+  "repository": "https://github.com/Dustin-Lee/spark-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

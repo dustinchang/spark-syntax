@@ -1,7 +1,7 @@
 {
   "name": "spark-syntax",
   "theme": "syntax",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A theme designed to be easy on the eyes, yet have important syntax elements pop.",
   "keywords": [
     "syntax",

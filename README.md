@@ -3,13 +3,15 @@ A dark Atom syntax theme designed to be easy on the eyes, yet have important syn
 
 ![screenshot](https://raw.githubusercontent.com/Dustin-Lee/spark-syntax/master/screenshot.png)
 ##Installation:
-GUI method:
+**GUI method:**
+
 Preferences->Install->Themes->Search for spark-syntax->Install
-Command Line method:
+
+**Command Line method:**
 ```
   apm install spark-syntax
 ```
-##View from:
+**View from:**
 
 GitHub: https://github.com/Dustin-Lee/spark-syntax
 

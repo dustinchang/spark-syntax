@@ -1,7 +1,7 @@
 # spark-syntax theme
 A dark Atom syntax theme designed to be easy on the eyes, yet have important syntax elements pop.
 
-![screenshot](https://raw.githubusercontent.com/dustinchang/spark-syntax/master/screenshot3.png)
+![screenshot](https://raw.githubusercontent.com/dustinchang/spark-syntax/master/screenshot2.png)
 ##Installation:
 **GUI method (Atom Package Manager):**
 

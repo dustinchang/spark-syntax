@@ -10,7 +10,7 @@
     "dark",
     "colorful"
   ],
-  "repository": "https://github.com/Dustin-Lee/spark-syntax",
+  "repository": "https://github.com/dustinchang/spark-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
